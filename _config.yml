@@ -103,8 +103,10 @@ enable_contact: true
 enable_nav: true
 nav_item:
   - { url: "/", text: "Home" }
+  - { url: "/skills", text: "My Skills" }
   - { url: "/about", text: "About" }
   - {
       url: "https://calendar.app.google/pRqhHFDRW3TdUZiz6",
       text: "Book An Appointment",
     }
+  - { url: "/contact", text: "Contact Me" }
