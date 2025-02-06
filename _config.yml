@@ -99,6 +99,6 @@ nav_item:
     }
   - {
       url: "https://calendar.app.google/pRqhHFDRW3TdUZiz6",
-      text: "Book An Appointment",
+      text: "Schedule A Call",
     }
   - { url: "/contact", text: "Contact Me" }
