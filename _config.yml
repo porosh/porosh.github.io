@@ -104,6 +104,10 @@ nav_item:
   - { url: "/skills", text: "My Skills" }
   - { url: "/about", text: "About" }
   - {
+      url: "https://docs.google.com/document/d/1jpi6vE4eYIdbZocTXxP7ZpdmA3W4lDWWQ0VsCYgCYfk",
+      text: "My CV",
+    }
+  - {
       url: "https://calendar.app.google/pRqhHFDRW3TdUZiz6",
       text: "Book An Appointment",
     }
