@@ -30,7 +30,7 @@ I am driven by a passion for **problem-solving and continuous learning**. Techno
 If you're looking for a skilled **developer and project manager** to bring your ideas to life, feel free to connect with me:
 
 📧 **Email:** porosh80@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nurealam](https://linkedin.com/in/nurealam)  
+🔗 **LinkedIn:** [linkedin.com/in/nurealamkhan](https://linkedin.com/in/nurealamkhan)  
 📂 **GitHub:** [github.com/porosh](https://github.com/porosh)  
 🐦 **X (Twitter):** [x.com/porosh80](https://x.com/porosh80)
 
