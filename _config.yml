@@ -18,9 +18,7 @@ email: "porosh80@gmail.com"
 description: "I'm a software developer and project manager from Dhaka creating useful things for the web & mobile."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://porosh.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: "jamigibbs"
 github_username: "porosh"
-medium_username: "blog.jamigibbs.com"
 linkedin_username: "nurealamkhan"
 online_cv_link: "https://docs.google.com/document/d/1jpi6vE4eYIdbZocTXxP7ZpdmA3W4lDWWQ0VsCYgCYfk"
 formspree_form_endpoint: "https://formspree.io/f/xdkadada"
@@ -97,7 +95,7 @@ pagination:
 footer_text: "© 2025 Nur E Alam Khan"
 admin_name: "Nur E Alam Khan"
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
