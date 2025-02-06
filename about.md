@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-I am **Nur E Alam Khan**, an experienced **Software Engineer and Project Manager** from Dhaka, Bangladesh. With over **18 years of multi-track expertise**, I specialize in **mobile and web development, cloud computing, and project management**. Passionate about creating scalable and innovative solutions, I have worked across various industries, helping businesses achieve their technology goals.
+I am **Nur E Alam Khan**, an experienced **Software Engineer and Project Manager** from Dhaka, Bangladesh, currently transforming myself into a stay-home parent. With over **18 years of multi-track expertise**, I specialize in **mobile and web development, cloud computing, and project management**. Passionate about creating scalable and innovative solutions, I have worked across various industries, helping businesses achieve their technology goals.
 
 ## Personal Background
 
