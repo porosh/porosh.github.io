@@ -9,7 +9,7 @@ permalink: /contact/
 I’d love to hear from you! Feel free to reach out via any of the platforms below:
 
 📧 **Email:** porosh80@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nurealam](https://linkedin.com/in/nurealam)  
+🔗 **LinkedIn:** [linkedin.com/in/nurealamkhan](https://linkedin.com/in/nurealamkhan)  
 📂 **GitHub:** [github.com/porosh](https://github.com/porosh)  
 💬 **WhatsApp:** [+8801914735561](https://wa.me/8801914735561)
 
